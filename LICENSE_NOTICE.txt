@@ -1,10 +1,10 @@
-This package is an unofficial standalone helper.
+This package is an unofficial standalone helper for experimentation.
 
-It uses the public approach of converting 2D weights with comfy-kitchen's TensorCoreNVFP4Layout and writing ComfyUI quantization metadata.
+It uses comfy-kitchen's TensorCoreNVFP4Layout and writes ComfyUI quantization metadata.
 
 Relevant upstream projects:
 - comfy-kitchen
-- tritant/ComfyUI_Kitchen_nvfp4_Converter, Apache-2.0
 - ComfyUI
+- HiDream-ai/HiDream-I1
 
 This package does not include model files.
