@@ -43,7 +43,7 @@ run_gui.bat
 Salve o resultado em:
 
 ```txt
-ComfyUI/models/diffusion_models/
+ComfyUI/models/unet/
 ```
 
 ou no diretório equivalente do seu Easy Install.
